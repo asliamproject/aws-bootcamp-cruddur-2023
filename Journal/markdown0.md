@@ -1,4 +1,4 @@
-week 1
+week 0
 Created Gitpod account and link to Github repo. AWS Create 2 budgets, installed AWS CLI in Gitpod with env variable stored. created 1 billing alarm. Create admin group and admin user. Create Access Key. 
 Created Lucid Charts Account
 Created Momento Account
