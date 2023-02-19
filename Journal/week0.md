@@ -24,7 +24,7 @@
 
 ###-Lucid Chart 1 https://lucid.app/lucidchart/b60b73f5-0f3a-4300-a660-302ea07baa2e/edit?viewport_loc=-805%2C-419%2C3072%2C1577%2C0_0&invitationId=inv_c0bbcf75-a699-47ee-b3b5-c1cd2751b791
 
-###-Lucid Chart 2
+###-Lucid Architecture Chart 2
 https://lucid.app/lucidchart/cd2d3f3c-2687-485a-8600-8fbfe1685067/edit?view_items=HbvyPvNH8B7y&invitationId=inv_d6bd9362-0fcb-4685-bfda-0d21887c980a
 
 ###Ref: Lucid Chart Setup
