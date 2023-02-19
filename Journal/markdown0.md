@@ -14,7 +14,7 @@ Created Lucid Chart
 -Lucid Chart 1 https://lucid.app/lucidchart/b60b73f5-0f3a-4300-a660-302ea07baa2e/edit?viewport_loc=-805%2C-419%2C3072%2C1577%2C0_0&invitationId=inv_c0bbcf75-a699-47ee-b3b5-c1cd2751b791
 -CI/CD logical pipeline in Lucid Chart
 
-Ref: Lucid chart setup
+Ref: Lucid Chart Setup
 1. Shape Library - AWS Architecture 2021
 ![image](https://user-images.githubusercontent.com/116926319/219905030-3f0edc20-d231-42b8-96ac-ad61feae7d66.png)
 
