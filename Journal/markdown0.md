@@ -12,6 +12,7 @@ Created Lucid Chart
 -created one admin user ![image](https://user-images.githubusercontent.com/116926319/219865993-5b9d763f-781d-4b0b-b403-7243ace6da63.png)
 -created two budgets![image](https://user-images.githubusercontent.com/116926319/219866137-1256f35d-8139-4be2-b51a-cbf4b6946942.png)
 -Lucid Chart 1 https://lucid.app/lucidchart/b60b73f5-0f3a-4300-a660-302ea07baa2e/edit?viewport_loc=-805%2C-419%2C3072%2C1577%2C0_0&invitationId=inv_c0bbcf75-a699-47ee-b3b5-c1cd2751b791
+
 -CI/CD logical pipeline in Lucid Chart
 https://lucid.app/lucidchart/cd2d3f3c-2687-485a-8600-8fbfe1685067/edit?view_items=HbvyPvNH8B7y&invitationId=inv_d6bd9362-0fcb-4685-bfda-0d21887c980a
 
