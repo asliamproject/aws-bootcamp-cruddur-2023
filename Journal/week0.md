@@ -1,4 +1,4 @@
-# week 0 billing & Architecture
+# week 0 Billing & Architecture
 
 ##Created Gitpod account and link to Github repo. 
 ##AWS created 2 budgets, installed AWS CLI in Gitpod with env variable stored. Created 1 billing alarm. Create admin group and admin user. Create Access Key. 
