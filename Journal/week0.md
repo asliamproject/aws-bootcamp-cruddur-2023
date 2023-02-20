@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/116926319/219940437-88004733-35d1-4358-abbe-68d7934a030f.png)
 
 ###-Lucid Chart 1 
-https://lucid.app/documents/view/b60b73f5-0f3a-4300-a660-302ea07baa2e
+[https://lucid.app/documents/view/b60b73f5-0f3a-4300-a660-302ea07baa2e](https://lucid.app/documents/view/b60b73f5-0f3a-4300-a660-302ea07baa2e)
 
 ###-Lucid Cruddur Logical Architecture Chart 2
 https://lucid.app/documents/view/cd2d3f3c-2687-485a-8600-8fbfe1685067
