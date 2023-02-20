@@ -35,3 +35,4 @@ https://lucid.app/lucidchart/cd2d3f3c-2687-485a-8600-8fbfe1685067/edit?viewport_
 
 2. Import shapes
 3. [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)/[Github Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+4. [Homebrew Formulae](https://formulae.brew.sh/formula/)
