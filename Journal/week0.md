@@ -26,7 +26,7 @@
 https://lucid.app/lucidchart/b60b73f5-0f3a-4300-a660-302ea07baa2e/edit?viewport_loc=-2730%2C-1408%2C6926%2C3556%2C0_0&invitationId=inv_c0bbcf75-a699-47ee-b3b5-c1cd2751b791
 
 ###-Lucid Cruddur Logical Architecture Chart 2
-https://lucid.app/lucidchart/cd2d3f3c-2687-485a-8600-8fbfe1685067/edit?viewport_loc=-538%2C439%2C1536%2C789%2C0_0&invitationId=inv_d6bd9362-0fcb-4685-bfda-0d21887c980a
+https://lucid.app/documents/view/cd2d3f3c-2687-485a-8600-8fbfe1685067
 ![Cruddur Logical Diagram](assets/Cruddur%20logical%20diagram.png)
 
 ###Ref: Lucid Chart Setup
