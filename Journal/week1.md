@@ -3,7 +3,7 @@
 
 ### Steps
 1. create backend-flask folder
-2. Copy Dockerfile
+2. Copy & create Dockerfile
 ```
 FROM python:3.10-slim-buster
 
