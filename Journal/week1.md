@@ -14,7 +14,7 @@ python3 -m flask run --host=0.0.0.0 --port=4567
 
 ```
 
-make sure to unlock the port on the port tab
+make sure to unlock the port on the port tab\
 open the link for 4567 in your browser
 append to the url to /api/activities/home
 you should get back json
