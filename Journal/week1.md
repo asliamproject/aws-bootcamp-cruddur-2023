@@ -85,6 +85,8 @@ npm i
 ```
 Compose
 ![image](https://user-images.githubusercontent.com/116926319/220870382-030bfc3d-c841-46cd-be9b-809da8732459.png)
+![image](https://user-images.githubusercontent.com/116926319/220872358-bc34d13e-1e16-427e-aaad-be79b2bb440e.png)
+![image](https://user-images.githubusercontent.com/116926319/220872448-845caf4f-cf42-4f93-aa01-104e38b0cb57.png)
 
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
