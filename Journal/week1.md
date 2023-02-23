@@ -83,6 +83,8 @@ SET ENV
 cd frontend-react-js
 npm i
 ```
+Compose
+![image](https://user-images.githubusercontent.com/116926319/220870382-030bfc3d-c841-46cd-be9b-809da8732459.png)
 
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
