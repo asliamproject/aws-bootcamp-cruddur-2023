@@ -58,15 +58,23 @@ $ docker images
 $ docker build --help
 ```
 
+RUN
+```
+docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask
+```
+
+###ONLY USE SINGLE QUOTE IN THE ABOVE COMMAND
+
 CHECK DOCKER LOG AND ENV
 ```
 docker exec -it
 ```
 
-OR right click Docker file > Seleck Click attach shell
+OR right click Docker file > Select Attach Shell from the drop down manu
 ![image](https://user-images.githubusercontent.com/116926319/220829240-22096b5e-b090-4517-b31c-8979cdd9d1ab.png)
 
-
+SET ENV
+(https://docs.docker.com/compose/environment-variables/set-environment-variables/)
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
 ### dockerhub, render, JFrog
