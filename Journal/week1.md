@@ -35,6 +35,17 @@ EXPOSE ${PORT}
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]
 ```
 
+CHECK VARIABLE EXAMPLE
+```
+$env | grep VARIABLE
+$env | grep BACKEND
+$env | grep _URL
+```
+
+REMOVE VARIABLE EXAMPLE
+```
+unset BACKEND_URL
+```
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
 ### dockerhub, render, JFrog
