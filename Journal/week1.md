@@ -1,7 +1,7 @@
 # Week 1
 ## Summary
 
-### Steps
+### Steps1. Backend Install
 1. create backend-flask folder
 2. Copy & create Dockerfile
 3. Terminal:
@@ -77,6 +77,13 @@ OR right click Docker file > Select Attach Shell from the drop down manu
 
 SET ENV
 (https://docs.docker.com/compose/environment-variables/set-environment-variables/)
+
+### Steps2. Frontend Install
+```
+cd frontend-react-js
+npm i
+```
+
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
 ### dockerhub, render, JFrog
