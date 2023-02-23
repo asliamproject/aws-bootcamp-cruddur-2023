@@ -57,6 +57,16 @@ LOCATE IMAGES
 $ docker images
 $ docker build --help
 ```
+
+CHECK DOCKER LOG AND ENV
+```
+docker exec -it
+```
+
+OR right click Docker file > Seleck Click attach shell
+![image](https://user-images.githubusercontent.com/116926319/220829240-22096b5e-b090-4517-b31c-8979cdd9d1ab.png)
+
+
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
 ### dockerhub, render, JFrog
