@@ -46,6 +46,16 @@ REMOVE VARIABLE EXAMPLE
 ```
 unset BACKEND_URL
 ```
+
+BUILD CONTAINER
+```
+docker build -t  backend-flask ./backend-flask
+```
+
+LOCATE IMAGES
+```
+$ docker images
+```
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
 ### dockerhub, render, JFrog
