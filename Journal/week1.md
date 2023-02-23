@@ -65,6 +65,8 @@ docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-
 
 ###ONLY USE SINGLE QUOTE IN THE ABOVE COMMAND
 
+![image](https://user-images.githubusercontent.com/116926319/220831424-c0d97b44-e646-4a36-919c-9d11ea42e224.png)
+
 CHECK DOCKER LOG AND ENV
 ```
 docker exec -it
