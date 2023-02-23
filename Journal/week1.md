@@ -55,6 +55,7 @@ docker build -t  backend-flask ./backend-flask
 LOCATE IMAGES
 ```
 $ docker images
+$ docker build --help
 ```
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
