@@ -19,6 +19,10 @@
 
 ###-created two budgets![image](https://user-images.githubusercontent.com/116926319/219866137-1256f35d-8139-4be2-b51a-cbf4b6946942.png)
 
+### Check that AWS CLI is working and you are the expected user
+```
+aws sts get-caller-identity
+```
 ###-setup AWS CLI in Gitpod. 
 [AWS CLI INSTALLATION DOCUMENTATION PAGE](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 ![image](https://user-images.githubusercontent.com/116926319/219940437-88004733-35d1-4358-abbe-68d7934a030f.png)
