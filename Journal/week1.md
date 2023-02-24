@@ -1,6 +1,9 @@
 # Week 1
 ## Summary
-
+1. I have created the .gitpod and docker-compose yml files. Clone frontend and backend repo. Write Dockerfiles. 
+2. I have built the container. Run the containers. Checked the env variable. Checked container logs.
+3. 
+4. I have used Gipod to change file
 ### Steps1. Backend Install
 1. create backend-flask folder
 2. Copy & create Dockerfile
