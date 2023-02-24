@@ -1,12 +1,16 @@
 # Week 1
 ## Summary
-1. I have created the .gitpod and docker-compose yml files. Clone frontend and backend repo. Write Dockerfiles. 
-2. I have built the container. Run the containers. Checked the env variable. Checked container logs.
-3. I have run the backend and frontend containers together to lauch the Cruddur app.
-4. I have used Gipod to modify /backend-flask/services/messages.py file.
-5. 
+1. I have setup a new Github codespace for the project.
+2. I have created the .gitpod and docker-compose yml files. Clone frontend and backend repo. Write Dockerfiles. 
+3. I have gained knowledge and practiced common docker command.
+4. I have built the container. Run the containers. Checked the env variable. Checked container logs.
+5. I have run the backend and frontend containers together to lauch the Cruddur app.
+6. I have used Gipod to modify /backend-flask/services/messages.py file.
+7. 
 
 
+### create Github codespace.
+![image](https://user-images.githubusercontent.com/116926319/221101177-63928bbd-9ffe-476b-9682-1f46ef9e1961.png)
 
 ### Steps1. Backend Install
 1. create backend-flask folder
