@@ -2,8 +2,12 @@
 ## Summary
 1. I have created the .gitpod and docker-compose yml files. Clone frontend and backend repo. Write Dockerfiles. 
 2. I have built the container. Run the containers. Checked the env variable. Checked container logs.
-3. 
-4. I have used Gipod to change file
+3. I have run the backend and frontend containers together to lauch the Cruddur app.
+4. I have used Gipod to modify /backend-flask/services/messages.py file.
+5. 
+
+
+
 ### Steps1. Backend Install
 1. create backend-flask folder
 2. Copy & create Dockerfile
