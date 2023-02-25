@@ -108,3 +108,5 @@ Compose
 [render](https://render.com/)
 [JFrog](https://jfrog.com/)
 ## Ref
+1.[DynamoDBLocal](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+2.(https://github.com/100DaysOfCloud/challenge-dynamodb-local)
