@@ -6,7 +6,7 @@
 4. I have built the container. Run the containers. Checked the env variable. Checked container logs.
 5. I have run the backend and frontend containers together to lauch the Cruddur app.
 6. I have used Gipod to modify /backend-flask/services/messages.py file.
-7. 
+7. I have created notifications endpoint.
 
 
 ### create Github codespace.
@@ -100,13 +100,21 @@ Compose
 ![image](https://user-images.githubusercontent.com/116926319/220872358-bc34d13e-1e16-427e-aaad-be79b2bb440e.png)
 ![image](https://user-images.githubusercontent.com/116926319/220872448-845caf4f-cf42-4f93-aa01-104e38b0cb57.png)
 
+### Steps3. Create DynamoDB Local and Postgres
+![Screenshot_20230225_055138](https://user-images.githubusercontent.com/116926319/221343628-5953c1a1-0c51-40f8-a55d-e1b52232dfcb.png)
+![Screenshot_20230225_055551](https://user-images.githubusercontent.com/116926319/221343629-d6c84b4d-6782-4b3a-847e-b60c5c383725.png)
+
 ### create notification backend endpoint
+![Screenshot_20230225_060141](https://user-images.githubusercontent.com/116926319/221343683-8152bf2a-467f-4857-b794-1b06b93cb4b9.png)
+
 ### Gitpod free-tier
 >User Steeings>Billing>Free Tier Monthly 500 credit/50 hours 
+>
 ### dockerhub, render, JFrog
 [Dockerhub](https://hub.docker.com/)
 [render](https://render.com/)
 [JFrog](https://jfrog.com/)
+
 ## Ref
 1.[DynamoDBLocal](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 2.(https://github.com/100DaysOfCloud/challenge-dynamodb-local)
