@@ -12,6 +12,13 @@
 ### create Github codespace.
 ![image](https://user-images.githubusercontent.com/116926319/221101177-63928bbd-9ffe-476b-9682-1f46ef9e1961.png)
 
+to run codein Github codespace:
+```
+FRONTEND_URL: "https://${CODESPACE_NAME}-3000.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+BACKEND_URL: "https://${CODESPACE_NAME}-4567.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+REACT_APP_BACKEND_URL: "https://${CODESPACE_NAME}-4567.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+```
+
 ### Steps1. Backend Install
 1. create backend-flask folder
 2. Copy & create Dockerfile
