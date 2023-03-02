@@ -15,6 +15,7 @@
 ![rollbar2](https://user-images.githubusercontent.com/116926319/222351456-1c40ff58-e79c-4d10-8ee4-589cb1de83df.png)
 
 7. I have implemented Cloudwatch log.
+![cloudwatch log](https://user-images.githubusercontent.com/116926319/222400001-541963e5-1494-4b35-8dde-8168111023f5.png)
 
 ### Ref
 1. (https://docs.honeycomb.io/getting-data-in/opentelemetry/python/)
