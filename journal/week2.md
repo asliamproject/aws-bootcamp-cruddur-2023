@@ -14,6 +14,8 @@
 ![rollbar](https://user-images.githubusercontent.com/116926319/222351518-d6343b80-d3cb-430b-9641-131098757554.png)
 ![rollbar2](https://user-images.githubusercontent.com/116926319/222351456-1c40ff58-e79c-4d10-8ee4-589cb1de83df.png)
 
+7. I have implemented Cloudwatch log.
+
 ### Ref
 1. (https://docs.honeycomb.io/getting-data-in/opentelemetry/python/)
 2. git push error fix(https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
