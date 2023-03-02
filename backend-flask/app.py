@@ -189,7 +189,7 @@ def data_activities_reply(activity_uuid):
 @app.route('/rollbar/test')
 def rollbar_test():
     rollbar.report_message('Hello World!', 'warning')
-    return "Hello World!"
+    return "You have completed Rollbar"
     
 if __name__ == "__main__":
   app.run(debug=True)

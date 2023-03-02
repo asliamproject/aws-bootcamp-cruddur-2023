@@ -10,7 +10,7 @@
 ![xray](https://user-images.githubusercontent.com/116926319/222056475-19b744fc-ba56-4095-be05-0525b94e7110.png)
 ![xray2](https://user-images.githubusercontent.com/116926319/222056541-55f25821-f519-4e09-8ba7-693faa67eafd.png)
 
-6. 
+6. I have set up Rollbar for trouble shooting.
 
 
 ### Ref
