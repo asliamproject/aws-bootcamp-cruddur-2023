@@ -11,7 +11,8 @@
 ![xray2](https://user-images.githubusercontent.com/116926319/222056541-55f25821-f519-4e09-8ba7-693faa67eafd.png)
 
 6. I have set up Rollbar for trouble shooting.
-
+![rollbar]![rollbar2](https://user-images.githubusercontent.com/116926319/222351518-d6343b80-d3cb-430b-9641-131098757554.png)
+(https://user-images.githubusercontent.com/116926319/222351456-1c40ff58-e79c-4d10-8ee4-589cb1de83df.png)
 
 ### Ref
 1. (https://docs.honeycomb.io/getting-data-in/opentelemetry/python/)
