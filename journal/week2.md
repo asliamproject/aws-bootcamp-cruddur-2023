@@ -17,9 +17,12 @@
 7. I have implemented Cloudwatch log.
 ![cloudwatch log](https://user-images.githubusercontent.com/116926319/222400001-541963e5-1494-4b35-8dde-8168111023f5.png)
 
+8. Test codespace.
+9.
 ### Ref
 1. (https://docs.honeycomb.io/getting-data-in/opentelemetry/python/)
 2. git push error fix(https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
 3. (https://en.wikipedia.org/wiki/Observability)
 4. (https://docs.aws.amazon.com/#sdks)
 5. (https://github.com/aws/aws-xray-sdk-python)
+6. (https://www.youtube.com/watch?v=L9KKBXgKopA&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=38)
