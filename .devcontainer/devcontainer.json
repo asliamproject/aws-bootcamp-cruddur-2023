@@ -12,10 +12,10 @@
 		"vscode": {
 			"extensions": [
 				"ms-azuretools.vscode-docker",
-				"ms-python.python"
+				"ms-python.python"				
 			],
 			"settings": {
-				"terminal.integrated.fontSize": 18,
+				"terminal.integrated.fontSize": 20,
 				"editor.fontSize": 20,
 				"workbench.colorTheme": "Default Dark+ Experimental"
 			}
