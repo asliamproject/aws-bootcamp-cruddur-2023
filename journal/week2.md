@@ -17,8 +17,8 @@
 7. I have implemented Cloudwatch log.
 ![cloudwatch log](https://user-images.githubusercontent.com/116926319/222400001-541963e5-1494-4b35-8dde-8168111023f5.png)
 
-8. Test codespace.
-9.
+8. Test codespace. Run the code from Github codespace in codespace branch.
+
 ### Ref
 1. (https://docs.honeycomb.io/getting-data-in/opentelemetry/python/)
 2. git push error fix(https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
