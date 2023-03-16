@@ -14,6 +14,8 @@ password: Testing1234!
 
 ### I have implemented JWT token server side.
 
+### I have modified the CSS files of the pages.
+
 ## Ref:
 1.
 What is JWT API authentication?
