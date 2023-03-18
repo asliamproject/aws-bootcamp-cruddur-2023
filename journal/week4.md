@@ -44,7 +44,14 @@ cruddur=# SELECT * FROM activities;
 (https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-instance.html)
 
 2. [psycopg3.2.0](https://www.psycopg.org/psycopg3/docs/)
-3. Common PSQL commands:
+3. GITPOD_IP=$(curl ifconfig.me)
+4. 
+```
+aws ec2 modify-security-group-rules \
+    --group-id $DB_SG_ID \
+    --security-group-rules "SecurityGroupRuleId=$DB_SG_RULE_ID,SecurityGroupRule={Description=GITPOD, IpProtocol=tcp,FromPort=5432,ToPort=5432,CidrIpv4=$GITPOD_IP/32}"
+```
+5. Common PSQL commands:
 ```
 \x on -- expanded display when looking at data
 \q -- Quit PSQL
@@ -63,3 +70,4 @@ INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...); -- 
 UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition; -- Update data in a table
 DELETE FROM table_name WHERE condition; -- Delete data from a table
 ```
+
