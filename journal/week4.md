@@ -43,7 +43,8 @@ cruddur=# SELECT * FROM activities;
 (https://docs.aws.amazon.com/cli/latest/reference/rds/)
 (https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-instance.html)
 
-2. Common PSQL commands:
+2. [psycopg3.2.0](https://www.psycopg.org/psycopg3/docs/)
+3. Common PSQL commands:
 ```
 \x on -- expanded display when looking at data
 \q -- Quit PSQL
