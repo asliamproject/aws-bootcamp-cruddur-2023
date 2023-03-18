@@ -32,6 +32,10 @@ PROD_CONNECTION_URL = "postgresql://cruddurroot:<password>@cruddur-db-instance.c
 
 NO_DB_CONNECTION_URL=$(sed 's/\/cruddur//g' <<<"$CONNECTION_URL")
 psql $NO_DB_CONNECTION_URL -c "DROP database cruddur;"
+
+cruddur=# \x on #Expanded display on
+cruddur=# \x auto #Expanded display is used automatically.
+cruddur=# SELECT * FROM activities;
 ```
 
 ## Ref:
