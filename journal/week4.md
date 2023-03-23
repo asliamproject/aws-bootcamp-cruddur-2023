@@ -38,7 +38,7 @@ cruddur=# \x auto #Expanded display is used automatically.
 cruddur=# SELECT * FROM activities;
 ```
 ### Create new activities with a database insert.
-replace the hardcoded user_handle value with user name sas.
+replace the hardcoded user_handle value with user name sas under /api/activities route in app.py file.
 
 ## Ref:
 1.[aws cli rds instance]
