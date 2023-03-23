@@ -37,9 +37,15 @@ cruddur=# \x on #Expanded display on
 cruddur=# \x auto #Expanded display is used automatically.
 cruddur=# SELECT * FROM activities;
 ```
+### set upc Lambda post confirmation function in AWS.
 ### Create new activities with a database insert.
 replace the hardcoded user_handle value with user name sas under /api/activities route in app.py file.
-
+```
+connect to Db:
+backend-flask$./bin/db-connect prod
+\x auto
+SELECT * FROM activities;
+```
 ## Ref:
 1.[aws cli rds instance]
 (https://docs.aws.amazon.com/cli/latest/reference/rds/)
