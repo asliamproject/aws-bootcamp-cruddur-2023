@@ -36,6 +36,7 @@ psql $NO_DB_CONNECTION_URL -c "DROP database cruddur;"
 cruddur=# \x on #Expanded display on
 cruddur=# \x auto #Expanded display is used automatically.
 cruddur=# SELECT * FROM activities;
+\q
 ```
 ### set upc Lambda post confirmation function in AWS.
 ### Create new activities with a database insert.
@@ -46,6 +47,9 @@ backend-flask$./bin/db-connect prod
 \x auto
 SELECT * FROM activities;
 ```
+![image](https://user-images.githubusercontent.com/116926319/227116856-6885c7e6-be93-4d6e-9dee-f6c440993396.png)
+![image](https://user-images.githubusercontent.com/116926319/227117107-711d7074-2ceb-47c7-be65-a7e286a69fd8.png)
+
 ## Ref:
 1.[aws cli rds instance]
 (https://docs.aws.amazon.com/cli/latest/reference/rds/)
