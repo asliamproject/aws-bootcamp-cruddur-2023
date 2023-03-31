@@ -25,6 +25,7 @@ REACT_APP_BACKEND_URL: "https://${CODESPACE_NAME}-4567.${GITHUB_CODESPACES_PORT_
 3. Terminal:
 
 ```
+whereis python
 pip3 install -r requirements.txt
 cd backend-flask
 export FRONTEND_URL="*"
