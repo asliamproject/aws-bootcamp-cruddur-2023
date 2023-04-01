@@ -2,7 +2,11 @@
 ## Summary
 ### Complete DynamoDB Utility Script such as Setup Dynomodb schema_load, list tables, seed data.
 ### AWS CLI Command LIST COGNITO USERS 
-
+```
+./bin/db/create
+./bin/db/schema-load
+./bin/db/seed
+```
 ```
 $ aws cognito-idp list-users --user-pool-id=<ap-southeast-2_USER POOL ID>
 ```
