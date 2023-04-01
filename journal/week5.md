@@ -20,6 +20,13 @@ $ aws cognito-idp list-users --user-pool-id=<ap-southeast-2_USER POOL ID>
 ./bin/cognito/list-users
 env | grep COGNITO
 ```
+
+### Stream:
+create table
+```
+$gitpod /workspace/aws-bootcamp-cruddur-2023/backend-flask (main) $ ./bin/ddb/schema-load prod
+```
+AWS DynamoDB>Tables>Exports and streams>DynamoDB stream details>Turn on>New image>Turn on stream
 ## Ref:
 1. Boto3 Docs.
 (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
