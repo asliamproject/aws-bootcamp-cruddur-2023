@@ -11,6 +11,7 @@ message_group_uuid = "5ae290ed-55d1-47a0-bc6d-fe2bc2700399"
 ./bin/ddb/patterns/list-conversations
 ./bin/ddb/patterns/get-conversations
 ```
+
 ```
 $ aws cognito-idp list-users --user-pool-id=<ap-southeast-2_USER POOL ID>
 ```
