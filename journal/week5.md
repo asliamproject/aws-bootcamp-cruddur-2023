@@ -35,6 +35,8 @@ AWS DynamoDB>Tables>Exports and streams>DynamoDB stream details>Turn on>New imag
 ./bin/ddb/seed
 ./bin/ddb/patterns/get-conversation
 ./bin/ddb/patterns/list-conversations
+![image](https://user-images.githubusercontent.com/116926319/229993582-e2df220b-6335-476a-ad0b-9d315f323787.png)
+
 ## Ref:
 1. Boto3 Docs.
 (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
