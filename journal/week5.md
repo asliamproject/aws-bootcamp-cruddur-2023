@@ -20,8 +20,8 @@ $ aws cognito-idp list-users --user-pool-id=<ap-southeast-2_USER POOL ID>
 ./bin/cognito/list-users
 env | grep COGNITO
 ```
-
-### Stream:
+### Create Lambda function for DynamoDB messaging stream
+### Create Stream:
 create table
 ```
 $gitpod /workspace/aws-bootcamp-cruddur-2023/backend-flask (main) $ ./bin/ddb/schema-load prod
