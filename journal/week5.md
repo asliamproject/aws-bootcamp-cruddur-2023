@@ -29,12 +29,15 @@ $gitpod /workspace/aws-bootcamp-cruddur-2023/backend-flask (main) $ ./bin/ddb/sc
 AWS DynamoDB>Tables>Exports and streams>DynamoDB stream details>Turn on>New image>Turn on stream
 
 ### commands to run to complete the weekly tasks:
+'''
 ./bin/db/setup
 ./bin/db/update_cognito_user_ids
 ./bin/ddb/schema_load
 ./bin/ddb/seed
 ./bin/ddb/patterns/get-conversation
 ./bin/ddb/patterns/list-conversations
+'''
+updated HomeFeedPage.js
 ![image](https://user-images.githubusercontent.com/116926319/229993582-e2df220b-6335-476a-ad0b-9d315f323787.png)
 
 ## Ref:
