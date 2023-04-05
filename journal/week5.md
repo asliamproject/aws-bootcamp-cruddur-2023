@@ -27,6 +27,14 @@ create table
 $gitpod /workspace/aws-bootcamp-cruddur-2023/backend-flask (main) $ ./bin/ddb/schema-load prod
 ```
 AWS DynamoDB>Tables>Exports and streams>DynamoDB stream details>Turn on>New image>Turn on stream
+
+### commands to run to complete the weekly tasks:
+./bin/db/setup
+./bin/db/update_cognito_user_ids
+./bin/ddb/schema_load
+./bin/ddb/seed
+./bin/ddb/patterns/get-conversation
+./bin/ddb/patterns/list-conversations
 ## Ref:
 1. Boto3 Docs.
 (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
