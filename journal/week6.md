@@ -8,8 +8,8 @@ $ export GITPOD_IP=$(curl ifconfig.me)
 ```
 ## Create Cluster
 
-### Create Cloudwatch log
-/cruddur/fargate-cluster
+### Create Cloudwatch log group
+: cruddur
 
 ### Elastic Container Service
 Clusters: cruddur
@@ -32,9 +32,13 @@ docker images
 docker image rm
 ```
 
-
+## AWS json policy
+```
+aws iam create-role     --role-name CruddurServiceExecutionRole     --assume-role-policy-document file://aws/policies/service-execution-policy.json
+```
 ## Ref
 ### Cloudspace.
 
 
 ## Ref
+(https://www.envoyproxy.io/)
