@@ -29,6 +29,7 @@ docker pull python:3.10-slim-buster
 docker tag python:3.10-slim-buster $ECR_PYTHON_URL:3.10-slim-buster
 docker push $ECR_PYTHON_URL:3.10-slim-buster
 docker images
+docker image rm
 ```
 
 
