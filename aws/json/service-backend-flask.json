@@ -7,7 +7,6 @@
     "loadBalancers": [
       {
           "targetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-2:845035480205:targetgroup/cruddur-backend-flask-tg/464215162350f3e4",
-          "loadBalancerName": "arn:aws:elasticloadbalancing:ap-southeast-2:845035480205:loadbalancer/app/cruddur-alb/a0671acfc4567104",
           "containerName": "backend-flask",
           "containerPort": 4567
       }
