@@ -68,6 +68,19 @@ list tasks
 ```
 aws ecs list-tasks --cluster cruddur
 ```
+
+###
+```
+docker build \
+--build-arg REACT_APP_BACKEND_URL="https://4567-$GITPOD_WORKSPACE_ID.$GITPOD_WORKSPACE_CLUSTER_HOST" \
+--build-arg REACT_APP_AWS_PROJECT_REGION="$AWS_DEFAULT_REGION" \
+--build-arg REACT_APP_AWS_COGNITO_REGION="$AWS_DEFAULT_REGION" \
+--build-arg REACT_APP_AWS_USER_POOLS_ID="ap-southeast-2_JVO6xcApv" \
+--build-arg REACT_APP_CLIENT_ID="5asnsktofp1k8rbsa47am21ms4" \
+-t frontend-react-js \
+-f Dockerfile.prod \
+.
+```
 ## Ref
 ### Cloudscape.
 
