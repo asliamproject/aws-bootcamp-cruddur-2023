@@ -36,6 +36,9 @@ docker image rm
 export ECR_PYTHON_URL="$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/cruddur-python"
 echo $ECR_PYTHON_URL
 ENV FLASK_DEBUG=1
+#connection_url = os.getenv("PROD_CONNECTION_URL")
+connection_url = os.getenv("CONNECTION_URL")
+
 ```
 ## AWS json policy
 ```
@@ -47,9 +50,18 @@ docker compose up backend-flask db
 ```
 ### Create Role
 ```
+under project folder:
 aws iam create-role --role-name CruddurServiceExecutionPolicy --assume-role-policy-document "file://aws/policies/service-assume-role-execution-policy.json"
 ```
-
+```
+aws ecs execute-command  \
+--region $AWS_DEFAULT_REGION \
+--cluster cruddur \
+--task dceb2ebdc11c49caadd64e6521c6b0c7 \
+--container backend-flask \
+--command "/bin/bash" \
+--interactive
+```
 ## Ref
 ### Cloudscape.
 
