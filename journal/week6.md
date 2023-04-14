@@ -64,6 +64,10 @@ aws ecs execute-command  \
 --command "/bin/bash" \
 --interactive
 ```
+list tasks
+```
+aws ecs list-tasks --cluster cruddur
+```
 ## Ref
 ### Cloudscape.
 
