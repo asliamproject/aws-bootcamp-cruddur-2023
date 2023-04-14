@@ -31,10 +31,19 @@ docker push $ECR_PYTHON_URL:3.10-slim-buster
 docker images
 docker image rm
 ```
-
+### Set Path Env
+```
+export ECR_PYTHON_URL="$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/cruddur-python"
+echo $ECR_PYTHON_URL
+ENV FLASK_DEBUG=1
+```
 ## AWS json policy
 ```
 aws iam create-role     --role-name CruddurServiceExecutionRole     --assume-role-policy-document file://aws/policies/service-execution-policy.json
+```
+### Docker Compose Up
+```
+docker compose up backend-flask db
 ```
 ### Create Role
 ```
@@ -42,8 +51,8 @@ aws iam create-role --role-name CruddurServiceExecutionPolicy --assume-role-poli
 ```
 
 ## Ref
-### Cloudspace.
+### Cloudscape.
 
 
-## Ref
+### 
 (https://www.envoyproxy.io/)
