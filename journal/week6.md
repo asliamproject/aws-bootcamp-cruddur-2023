@@ -53,6 +53,8 @@ docker compose up backend-flask db
 under project folder:
 aws iam create-role --role-name CruddurServiceExecutionPolicy --assume-role-policy-document "file://aws/policies/service-assume-role-execution-policy.json"
 ```
+
+Connect to command
 ```
 aws ecs execute-command  \
 --region $AWS_DEFAULT_REGION \
@@ -68,3 +70,7 @@ aws ecs execute-command  \
 
 ### 
 (https://www.envoyproxy.io/)
+
+### Install Session Manager Plugin
+(https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-troubleshooting.html#plugin-not-found)
+(https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html#install-plugin-linux)
