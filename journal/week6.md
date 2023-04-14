@@ -57,7 +57,7 @@ aws iam create-role --role-name CruddurServiceExecutionPolicy --assume-role-poli
 aws ecs execute-command  \
 --region $AWS_DEFAULT_REGION \
 --cluster cruddur \
---task dceb2ebdc11c49caadd64e6521c6b0c7 \
+--task 0d662f6e300f4e50939ea6654f5805ce \
 --container backend-flask \
 --command "/bin/bash" \
 --interactive
